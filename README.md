@@ -1,3 +1,5 @@
+# Imported from: https://gitlab.com/protesilaos/hack-font-mod.git
+
 # Modified version of the "Hack" typeface
 
 This is the primary monospaced typeface I use in [my Emacs
